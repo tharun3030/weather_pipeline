@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Database (contains real data)
+database/weather_data.db
+
+# Logs
+logs/
+
+# Reports
+reports/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment files
+.env
+*.env
+
+# Windows
+Thumbs.db
+desktop.ini
